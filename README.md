@@ -1,11 +1,18 @@
-## Qr-Code-Generator
+## QR-Code-Generator
 
-- you can either run the program and enter the url and file name
+You can either run the program and enter the URL and file name interactively:
+
+```bash
+
+$ python3 qr-code-generator.py
+
+```
 
 #### or 
 
 - you can run 
 
 ```bash 
-
 $ python3 qr-code-generator.py https://www.yoururl.com yourfilename
+
+```
