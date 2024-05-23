@@ -8,7 +8,7 @@ $ python3 qr-code-generator.py
 
 ```
 
-#### or 
+### or 
 
 You can run it via command-line arguments
 
