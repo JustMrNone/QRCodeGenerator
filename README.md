@@ -4,7 +4,7 @@
 
 #### or 
 
-### you can run 
+- you can run 
 
 ```bash 
 
