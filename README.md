@@ -1,10 +1,10 @@
 ## Qr-Code-Generator
 
-### you can either run the program and enter the url and file name
+- you can either run the program and enter the url and file name
 
 #### or 
 
-### you can run 
+- you can run 
 
 ```bash 
 
