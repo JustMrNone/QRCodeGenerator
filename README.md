@@ -10,7 +10,7 @@ $ python3 qr-code-generator.py
 
 #### or 
 
-You can run 
+You can run it via command-line arguments
 
 ```bash
 
