@@ -10,9 +10,10 @@ $ python3 qr-code-generator.py
 
 #### or 
 
-- you can run 
+You can run 
 
-```bash 
+```bash
+
 $ python3 qr-code-generator.py https://www.yoururl.com yourfilename
 
 ```
